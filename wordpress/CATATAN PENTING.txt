@@ -1,0 +1,5 @@
+Pada folder ini :
+F:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\templates\loop\add-to-cart.php
+F:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\templates\single-product\add-to-cart\simple.php
+
+Di buat menjadi komen agar tidak muncul tombol "add to cart"
